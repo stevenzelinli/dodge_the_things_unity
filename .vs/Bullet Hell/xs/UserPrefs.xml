@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{8638483E-BC52-2E3E-5DF8-D2C046A7446F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="278" Column="34" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="50" Column="10" />
+      <File FileName="Assets/Scripts/PowerUpType.cs" Line="3" Column="13" />
+      <File FileName="Assets/Scripts/PowerUpController.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/PowerUp.cs" Line="8" Column="27" />
+      <File FileName="Assets/Scripts/ProjectileType.cs" Line="4" Column="14" />
+      <File FileName="Assets/Scripts/ProjectileLauncher.cs" Line="56" Column="73" />
+      <File FileName="Assets/Scripts/HUDController.cs" Line="36" Column="47" />
+      <File FileName="Assets/Scripts/FallDeathController.cs" Line="8" Column="29" />
+      <File FileName="Assets/Scripts/LevelController.cs" Line="28" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bullet Hell" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="LevelController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5513be01-2ea1-490b-971a-de2c1efb3c42" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

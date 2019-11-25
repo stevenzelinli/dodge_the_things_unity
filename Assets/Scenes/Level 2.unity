@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 22662812}
   m_Layer: 0
   m_Name: Cube (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -297,7 +297,7 @@ GameObject:
   - component: {fileID: 79045353}
   m_Layer: 0
   m_Name: Cube (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -1087,7 +1087,7 @@ GameObject:
   - component: {fileID: 254492666}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -1253,7 +1253,7 @@ GameObject:
   - component: {fileID: 262513128}
   m_Layer: 0
   m_Name: Cube (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -1894,16 +1894,6 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
-    - target: {fileID: 5734386090062143383, guid: cb95d2b5dbfec405bb0350c5424ea596,
-        type: 3}
-      propertyPath: m_Text
-      value: Level Complete!
-      objectReference: {fileID: 0}
-    - target: {fileID: 5734386089173795750, guid: cb95d2b5dbfec405bb0350c5424ea596,
-        type: 3}
-      propertyPath: m_Name
-      value: Next Level Button
-      objectReference: {fileID: 0}
     - target: {fileID: 5734386089173795748, guid: cb95d2b5dbfec405bb0350c5424ea596,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1924,11 +1914,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 5734386090847458369, guid: cb95d2b5dbfec405bb0350c5424ea596,
-        type: 3}
-      propertyPath: m_Text
-      value: Next Level
-      objectReference: {fileID: 0}
     - target: {fileID: 5734386090291664705, guid: cb95d2b5dbfec405bb0350c5424ea596,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1938,6 +1923,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: LoadLevel
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734386089173795750, guid: cb95d2b5dbfec405bb0350c5424ea596,
+        type: 3}
+      propertyPath: m_Name
+      value: Next Level Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734386090062143383, guid: cb95d2b5dbfec405bb0350c5424ea596,
+        type: 3}
+      propertyPath: m_Text
+      value: Level Complete!
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734386090847458369, guid: cb95d2b5dbfec405bb0350c5424ea596,
+        type: 3}
+      propertyPath: m_Text
+      value: Next Level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb95d2b5dbfec405bb0350c5424ea596, type: 3}
@@ -2214,7 +2214,7 @@ GameObject:
   - component: {fileID: 477338201}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -2952,7 +2952,7 @@ GameObject:
   - component: {fileID: 637397654}
   m_Layer: 0
   m_Name: Cube (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -3043,7 +3043,7 @@ GameObject:
   - component: {fileID: 679783914}
   m_Layer: 0
   m_Name: Cube (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -3779,7 +3779,7 @@ GameObject:
   - component: {fileID: 839968402}
   m_Layer: 0
   m_Name: Cube (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -4579,7 +4579,7 @@ GameObject:
   - component: {fileID: 1088739160}
   m_Layer: 0
   m_Name: Cube (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -5442,7 +5442,7 @@ GameObject:
   - component: {fileID: 1366840267}
   m_Layer: 0
   m_Name: Cube (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -5674,7 +5674,7 @@ GameObject:
   - component: {fileID: 1394028919}
   m_Layer: 0
   m_Name: Cube (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -5959,7 +5959,7 @@ GameObject:
   - component: {fileID: 1504015970}
   m_Layer: 0
   m_Name: Cube (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
@@ -6251,7 +6251,7 @@ GameObject:
   - component: {fileID: 1591266380}
   m_Layer: 0
   m_Name: Cube (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 8
